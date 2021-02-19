@@ -1,4 +1,4 @@
 # text-git
 text git
 
-branch lb 1
+branch lb 2
